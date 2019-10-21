@@ -1,4 +1,4 @@
-interface racing
+interface Racing
 {
 public string running(); 
 }
